@@ -1,4 +1,4 @@
-# Zosh Food
+# Zomato Clone Backend
 
 1. **User:**
     - ID (Auto-generated)
